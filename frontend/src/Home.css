@@ -1,0 +1,27 @@
+.home {
+    text-align: center;
+  }
+  
+  .home h1 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .home p {
+    color: #666;
+    margin-bottom: 2rem;
+  }
+  
+  .home a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+  }
+  
+  .home a:hover {
+    background-color: #0056b3;
+  }
+  

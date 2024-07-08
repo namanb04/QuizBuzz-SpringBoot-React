@@ -1,0 +1,49 @@
+.create-quiz {
+    text-align: center;
+  }
+  
+  .create-quiz h1 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .create-quiz form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .create-quiz form > div {
+    margin-bottom: 1rem;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .create-quiz label {
+    display: block;
+    text-align: left;
+    margin-bottom: 0.5rem;
+    color: #666;
+  }
+  
+  .create-quiz input,
+  .create-quiz select {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .create-quiz button {
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .create-quiz button:hover {
+    background-color: #0056b3;
+  }
+  
